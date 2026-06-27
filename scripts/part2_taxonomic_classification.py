@@ -48,8 +48,8 @@ MIN_TABLE_READS = 200
 MIN_ALIGNMENT_IDENTITY = 0.70
 MIN_ALIGNMENT_LENGTH = 100
 
-PYTHON = Path("/Users/savely/miniforge3/envs/biodef/bin/python")
-MINIMAP2 = Path("/Users/savely/miniforge3/envs/biodef/bin/minimap2")
+PYTHON = shutil.which("python") or "python"
+MINIMAP2 = MINIMAP2 = shutil.which("minimap2") or "minimap2"
 
 
 @dataclass(frozen=True)
