@@ -1,0 +1,4 @@
+Cluster,Records,References,Sample_read_sets,Main_family,Family_purity,Interpretation
+2,24,4,20,Picornaviridae,95.8%,"Contains all rhinovirus sample read sets and the rhinovirus references; this supports the Part 2 rhinovirus calls at family/genus level."
+4,9,8,1,Orthomyxoviridae,100.0%,"Contains the Influenza C sample read set from 260608-Copl-NAS-P1 near Influenza C references."
+6,6,5,1,Coronaviridae,100.0%,"Contains the Human coronavirus OC43 sample read set from 260609-Cent-NAS-P2 near coronavirus references."

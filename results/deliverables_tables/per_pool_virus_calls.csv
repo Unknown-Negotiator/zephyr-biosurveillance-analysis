@@ -1,0 +1,13 @@
+Sample,Collection_site_and_date,Main_virus_calls
+260605-BC-NAS-P2,"Boston Park/Tremont Street (June 5)","Rhinovirus A: 5116 reads, 100.0% coverage (low exact-reference confidence); Rhinovirus B: 5 reads, 84.7% coverage (low); OC43 and Rhinovirus C: single-read very low-confidence detections"
+260605-BC-NAS-P3,"Boston Park/Tremont Street (June 5)","Rhinovirus A: 6561 reads, 100.0% coverage (low exact-reference confidence); Rhinovirus B: 2 reads (very low confidence)"
+260608-Copl-NAS-P1,"Copley Square (June 8)","Rhinovirus A: 89662 reads, 100.0% coverage (low exact-reference confidence); Rhinovirus B: 4999 reads, 100.0% coverage (medium); Influenza C: 413 reads, 85.8% coverage (high); Rhinovirus C: 329 reads, 63.5% coverage (low)"
+260608-Copl-NAS-P2,"Copley Square (June 8)","Rhinovirus A: 83 reads, 88.3% coverage (low); Rhinovirus B: 7 reads, 41.5% coverage (low)"
+260609-Cent-NAS-P1,"Central Square (June 9)","Rhinovirus B: 5465 reads, 96.8% coverage (medium); Rhinovirus A: 2814 reads, 87.1% coverage (low exact-reference confidence); Human coronavirus NL63: single-read very low-confidence detection"
+260609-Cent-NAS-P2,"Central Square (June 9)","Human coronavirus OC43: 20386 reads, 88.6% coverage (high); Rhinovirus B: 1554 reads, 98.6% coverage (low exact-reference confidence); Rhinovirus A: 256 reads, 98.5% coverage (low)"
+260610-MBTA_Da-NAS-P1,"MBTA Davis Square (June 10)","Rhinovirus A: 30366 reads, 100.0% coverage (low exact-reference confidence); Rhinovirus B: 764 reads, 92.9% coverage (low); Rhinovirus C: 55 reads, 63.5% coverage (low); OC43: single-read very low-confidence detection"
+260610-MBTA_Da-NAS-P2,"MBTA Davis Square (June 10)","Only very low-confidence detections: OC43, Rhinovirus A, and Rhinovirus B (2 reads each)"
+260611-BC-NAS-P1,"Boston Park/Tremont Street (June 11)","Rhinovirus A: 1050 reads, 97.6% coverage (medium); Rhinovirus C: 257 reads, 42.3% coverage (low); Rhinovirus B: 21 reads, 33.4% coverage (medium); OC43: 3 reads (low)"
+260611-BC-NAS-P2,"Boston Park/Tremont Street (June 11)","Rhinovirus B: 30881 reads, 98.7% coverage (low exact-reference confidence); Rhinovirus A: 20907 reads, 95.2% coverage (low); Rhinovirus C: 19 reads, 9.1% coverage (low)"
+260611-BC-NAS-P3,"Boston Park/Tremont Street (June 11)","Rhinovirus A: 12611 reads, 97.0% coverage (low exact-reference confidence); Rhinovirus B: 17 reads, 55.6% coverage (low); Rhinovirus C: 16 reads, 5.7% coverage (medium)"
+260613-MBTA_Ha-NAS-P1,"MBTA Harvard Station (June 13)","Rhinovirus B: 18964 reads, 96.4% coverage (medium); Rhinovirus A: 1122 reads, 72.5% coverage (low); OC43: single-read very low-confidence detection"

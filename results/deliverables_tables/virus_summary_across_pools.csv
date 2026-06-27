@@ -1,0 +1,7 @@
+Virus,Positive_pools,Total_assigned_reads,Max_reads_in_one_pool,Median_identity,Max_coverage_breadth,Median_coverage_breadth
+Rhinovirus A,12,170550,89662,72.5%,100.0%,97.3%
+Rhinovirus B,12,62681,30881,74.8%,100.0%,88.8%
+Human coronavirus OC43,6,20394,20386,97.2%,88.6%,16.7%
+Rhinovirus C,6,677,329,73.2%,63.5%,25.7%
+Influenza C,1,413,413,96.0%,85.8%,85.8%
+Human coronavirus NL63,1,1,1,98.1%,4.6%,4.6%
