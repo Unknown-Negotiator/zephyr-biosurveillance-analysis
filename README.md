@@ -56,6 +56,8 @@ Part 3B:
 - `results/part3_sample_reference_comparison.csv`
 - `figures/part3_sample_reference_kmer_clusters.png`
 
+**Additional sequence-clustering experiments using DNA/protein language models are available in this Google Colab notebook:** [Google Colab link](https://colab.research.google.com/drive/1WGsi3m0uF3NhYCoAmzq1_JIk4PSik5Rf#scrollTo=wfXfidpCNzD5).
+
 ## Report
 
 ### Part 2 - Taxonomic Classification
