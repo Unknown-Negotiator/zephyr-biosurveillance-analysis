@@ -49,7 +49,7 @@ MIN_ALIGNMENT_IDENTITY = 0.70
 MIN_ALIGNMENT_LENGTH = 100
 
 PYTHON = shutil.which("python") or "python"
-MINIMAP2 = MINIMAP2 = shutil.which("minimap2") or "minimap2"
+MINIMAP2 = shutil.which("minimap2") or "minimap2"
 
 
 @dataclass(frozen=True)
