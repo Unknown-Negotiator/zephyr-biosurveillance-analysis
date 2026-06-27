@@ -1,0 +1,13 @@
+name: biodef
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython
+  - matplotlib
+  - minimap2
+  - numpy
+  - pandas
+  - samtools
+  - seqkit

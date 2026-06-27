@@ -1,0 +1,25 @@
+sample_id,virus,figure
+260613-MBTA_Ha-NAS-P1,Rhinovirus A,figures/coverage/260613-MBTA_Ha-NAS-P1__Rhinovirus_A.png
+260613-MBTA_Ha-NAS-P1,Rhinovirus B,figures/coverage/260613-MBTA_Ha-NAS-P1__Rhinovirus_B.png
+260611-BC-NAS-P3,Rhinovirus A,figures/coverage/260611-BC-NAS-P3__Rhinovirus_A.png
+260611-BC-NAS-P3,Rhinovirus C,figures/coverage/260611-BC-NAS-P3__Rhinovirus_C.png
+260611-BC-NAS-P2,Rhinovirus A,figures/coverage/260611-BC-NAS-P2__Rhinovirus_A.png
+260611-BC-NAS-P2,Rhinovirus B,figures/coverage/260611-BC-NAS-P2__Rhinovirus_B.png
+260611-BC-NAS-P1,Rhinovirus A,figures/coverage/260611-BC-NAS-P1__Rhinovirus_A.png
+260611-BC-NAS-P1,Rhinovirus B,figures/coverage/260611-BC-NAS-P1__Rhinovirus_B.png
+260611-BC-NAS-P1,Rhinovirus C,figures/coverage/260611-BC-NAS-P1__Rhinovirus_C.png
+260610-MBTA_Da-NAS-P1,Rhinovirus A,figures/coverage/260610-MBTA_Da-NAS-P1__Rhinovirus_A.png
+260610-MBTA_Da-NAS-P1,Rhinovirus B,figures/coverage/260610-MBTA_Da-NAS-P1__Rhinovirus_B.png
+260610-MBTA_Da-NAS-P1,Rhinovirus C,figures/coverage/260610-MBTA_Da-NAS-P1__Rhinovirus_C.png
+260609-Cent-NAS-P2,Human coronavirus OC43,figures/coverage/260609-Cent-NAS-P2__Human_coronavirus_OC43.png
+260609-Cent-NAS-P2,Rhinovirus A,figures/coverage/260609-Cent-NAS-P2__Rhinovirus_A.png
+260609-Cent-NAS-P2,Rhinovirus B,figures/coverage/260609-Cent-NAS-P2__Rhinovirus_B.png
+260609-Cent-NAS-P1,Rhinovirus A,figures/coverage/260609-Cent-NAS-P1__Rhinovirus_A.png
+260609-Cent-NAS-P1,Rhinovirus B,figures/coverage/260609-Cent-NAS-P1__Rhinovirus_B.png
+260608-Copl-NAS-P2,Rhinovirus A,figures/coverage/260608-Copl-NAS-P2__Rhinovirus_A.png
+260608-Copl-NAS-P1,Influenza C,figures/coverage/260608-Copl-NAS-P1__Influenza_C.png
+260608-Copl-NAS-P1,Rhinovirus A,figures/coverage/260608-Copl-NAS-P1__Rhinovirus_A.png
+260608-Copl-NAS-P1,Rhinovirus B,figures/coverage/260608-Copl-NAS-P1__Rhinovirus_B.png
+260608-Copl-NAS-P1,Rhinovirus C,figures/coverage/260608-Copl-NAS-P1__Rhinovirus_C.png
+260605-BC-NAS-P3,Rhinovirus A,figures/coverage/260605-BC-NAS-P3__Rhinovirus_A.png
+260605-BC-NAS-P2,Rhinovirus A,figures/coverage/260605-BC-NAS-P2__Rhinovirus_A.png

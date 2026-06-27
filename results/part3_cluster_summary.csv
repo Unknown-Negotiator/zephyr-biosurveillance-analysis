@@ -1,0 +1,8 @@
+cluster,n_records,n_reference_records,n_sample_read_sets,majority_family,family_purity,reference_majority_family,families,viruses
+0,9,9,0,Orthomyxoviridae,1.0,Orthomyxoviridae,Orthomyxoviridae:9,Influenza A; Influenza B
+1,3,3,0,Orthomyxoviridae,1.0,Orthomyxoviridae,Orthomyxoviridae:3,Influenza A; Influenza B; Influenza C
+2,24,4,20,Picornaviridae,0.9583333333333334,Picornaviridae,Picornaviridae:23; Parvoviridae:1,Human bocavirus 1; Rhinovirus A; Rhinovirus B; Rhinovirus C
+3,6,6,0,Pneumoviridae,0.5,Pneumoviridae,Pneumoviridae:3; Paramyxoviridae:3,Human metapneumovirus; Human parainfluenza virus 1; Human parainfluenza virus 2; Human parainfluenza virus 3; Respiratory syncytial virus A; Respiratory syncytial virus B
+4,9,8,1,Orthomyxoviridae,1.0,Orthomyxoviridae,Orthomyxoviridae:9,Influenza B; Influenza C
+5,3,3,0,Orthomyxoviridae,0.6666666666666666,Orthomyxoviridae,Orthomyxoviridae:2; Adenoviridae:1,Human adenovirus C; Influenza A
+6,6,5,1,Coronaviridae,1.0,Coronaviridae,Coronaviridae:6,Human coronavirus 229E; Human coronavirus HKU1; Human coronavirus NL63; Human coronavirus OC43; SARS-CoV-2

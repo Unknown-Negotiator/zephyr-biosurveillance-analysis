@@ -1,0 +1,23 @@
+sample_id,assigned_virus,assigned_family,reads_assigned,reads_found,median_identity,genome_coverage_breadth,confidence,cluster,nearest_reference_virus,nearest_reference_family,nearest_reference_segment,nearest_reference_distance,nearest_reference_matches_virus,nearest_reference_matches_family,cluster_reference_majority_family,cluster_matches_assigned_family
+260605-BC-NAS-P2,Rhinovirus A,Picornaviridae,5116,5116,0.7185762526302132,1.0,low,2,Rhinovirus B,Picornaviridae,genome,0.0043625396025158995,False,True,Picornaviridae,True
+260605-BC-NAS-P3,Rhinovirus A,Picornaviridae,6561,6561,0.7232472324723247,1.0,low,2,Rhinovirus B,Picornaviridae,genome,0.0036144966249379417,False,True,Picornaviridae,True
+260608-Copl-NAS-P1,Influenza C,Orthomyxoviridae,413,413,0.9597069597069596,0.8583242836855735,high,4,Influenza C,Orthomyxoviridae,segment_1_PB2,0.0031207083979818352,True,True,Orthomyxoviridae,True
+260608-Copl-NAS-P1,Rhinovirus A,Picornaviridae,89662,89662,0.7224799662589625,1.0,low,2,Rhinovirus B,Picornaviridae,genome,0.004137681526559224,False,True,Picornaviridae,True
+260608-Copl-NAS-P1,Rhinovirus B,Picornaviridae,4999,4999,0.7853016688061617,1.0,medium,2,Rhinovirus B,Picornaviridae,genome,0.0025630123787732002,True,True,Picornaviridae,True
+260608-Copl-NAS-P1,Rhinovirus C,Picornaviridae,329,329,0.7041303737004777,0.6350190167629244,low,2,Rhinovirus C,Picornaviridae,genome,0.0037929384935159504,True,True,Picornaviridae,True
+260608-Copl-NAS-P2,Rhinovirus A,Picornaviridae,83,83,0.7493112947658402,0.8832494407158836,low,2,Rhinovirus A,Picornaviridae,genome,0.0028292617145224234,True,True,Picornaviridae,True
+260609-Cent-NAS-P1,Rhinovirus A,Picornaviridae,2814,2814,0.7203647416413373,0.870665548098434,low,2,Rhinovirus B,Picornaviridae,genome,0.004490822995144402,False,True,Picornaviridae,True
+260609-Cent-NAS-P1,Rhinovirus B,Picornaviridae,5465,5465,0.7717834271298273,0.9682473655019412,medium,2,Rhinovirus C,Picornaviridae,genome,0.0033884854506566193,False,True,Picornaviridae,True
+260609-Cent-NAS-P2,Human coronavirus OC43,Coronaviridae,20386,20386,0.9804545100817516,0.8863407176084057,high,6,Human coronavirus OC43,Coronaviridae,genome,0.001421207137915601,True,True,Coronaviridae,True
+260609-Cent-NAS-P2,Rhinovirus A,Picornaviridae,256,256,0.7138382687927107,0.9854586129753916,low,2,Rhinovirus B,Picornaviridae,genome,0.006138193630053573,False,True,Picornaviridae,True
+260609-Cent-NAS-P2,Rhinovirus B,Picornaviridae,1554,1554,0.719769733812287,0.9859955629506378,low,2,Rhinovirus C,Picornaviridae,genome,0.002785886968535604,False,True,Picornaviridae,True
+260610-MBTA_Da-NAS-P1,Rhinovirus A,Picornaviridae,30366,30366,0.7240855042335443,1.0,low,2,Rhinovirus B,Picornaviridae,genome,0.004076734411018459,False,True,Picornaviridae,True
+260610-MBTA_Da-NAS-P1,Rhinovirus B,Picornaviridae,764,764,0.7334004024144869,0.9294231835829172,low,2,Rhinovirus B,Picornaviridae,genome,0.0034898184591025416,True,True,Picornaviridae,True
+260610-MBTA_Da-NAS-P1,Rhinovirus C,Picornaviridae,55,55,0.7278131634819532,0.6350190167629244,low,2,Rhinovirus C,Picornaviridae,genome,0.003454462386263103,True,True,Picornaviridae,True
+260611-BC-NAS-P1,Rhinovirus A,Picornaviridae,1050,1050,0.8117025767280559,0.9755313199105146,medium,2,Rhinovirus A,Picornaviridae,genome,0.0016384458781507792,True,True,Picornaviridae,True
+260611-BC-NAS-P1,Rhinovirus C,Picornaviridae,257,257,0.7368040491684743,0.4234399211156501,low,2,Rhinovirus C,Picornaviridae,genome,0.007238576051923417,True,True,Picornaviridae,True
+260611-BC-NAS-P2,Rhinovirus A,Picornaviridae,20907,20907,0.7258243793997777,0.952321029082774,low,2,Rhinovirus C,Picornaviridae,genome,0.003940098488961737,False,True,Picornaviridae,True
+260611-BC-NAS-P2,Rhinovirus B,Picornaviridae,30881,30881,0.7098572702943801,0.9866888519134775,low,2,Rhinovirus B,Picornaviridae,genome,0.0036876557116880112,True,True,Picornaviridae,True
+260611-BC-NAS-P3,Rhinovirus A,Picornaviridae,12611,12611,0.7286976346537475,0.9699384787472036,low,2,Rhinovirus B,Picornaviridae,genome,0.003915652287107354,False,True,Picornaviridae,True
+260613-MBTA_Ha-NAS-P1,Rhinovirus A,Picornaviridae,1122,1122,0.7397151898734177,0.7249720357941835,low,2,Rhinovirus C,Picornaviridae,genome,0.0033889788201525097,False,True,Picornaviridae,True
+260613-MBTA_Ha-NAS-P1,Rhinovirus B,Picornaviridae,18964,18964,0.7725056873578161,0.9643649473100387,medium,2,Rhinovirus C,Picornaviridae,genome,0.0036743598249225537,False,True,Picornaviridae,True

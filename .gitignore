@@ -1,0 +1,17 @@
+.DS_Store
+*.tmp
+__pycache__/
+*.py[cod]
+
+# Local caches
+.cache/
+
+# Large downloaded inputs and mapping intermediates can be regenerated.
+data/reads/
+data/metadata/
+results/mappings/
+
+# Office/PDF source task files are local submission/context artifacts.
+*.docx
+*.pdf
+
